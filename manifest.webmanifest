@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "WEMS 7.19 介面測試站",
-  "short_name": "WEMS 測試",
+  "name": "WEMS 7.19 正式資料共用測試站",
+  "short_name": "WEMS 共用測試",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

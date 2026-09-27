@@ -1,5 +1,7 @@
-# WEMS 7.19 interface preview
+# WEMS 7.19 shared-production-data test site
 
-Public built assets only. No production database connection. Local demo login is for interface testing only. Internal Word template is excluded; document export is disabled.
+Public built assets only. This test site connects to the same Supabase project as the existing production site. Add, edit, delete, photo, and maintenance actions affect production data immediately.
 
-Existing Netlify and private source repository are unchanged.
+The bundled Supabase key is the public/publishable browser key. No `.env.local`, service-role key, source archive, SQL, or internal Word template is published. AutoWord export remains disabled.
+
+Existing Netlify deployment and the private source repository remain unchanged.
