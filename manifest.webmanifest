@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "WEMS 7.19 介面測試站",
+  "short_name": "WEMS 測試",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#0f8f4e",
+  "lang": "zh-Hant",
+  "description": "路燈派工與施工照片管理"
+}
